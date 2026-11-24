@@ -16,4 +16,5 @@ Two products, two architectures, deliberately: I pick the pattern that fits the 
 
 Most of my production work is under NDA or closed source — happy to walk through the architecture and the reasoning on a call.
 
-📍 Ukraine · Open to contract work
+📍 Ukraine 
+
